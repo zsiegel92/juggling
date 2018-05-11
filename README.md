@@ -12,4 +12,6 @@ A great juggler:
 
 cool
 
-cooler!
+cooler
+
+coolest!
